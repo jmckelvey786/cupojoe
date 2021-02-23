@@ -1,0 +1,13 @@
+C:\Users\Joshua\Desktop\repos\cupojoe\jazzedonjava\jazzedonjava\bin\Debug\netcoreapp3.1\jazzedonjava.exe
+C:\Users\Joshua\Desktop\repos\cupojoe\jazzedonjava\jazzedonjava\bin\Debug\netcoreapp3.1\jazzedonjava.deps.json
+C:\Users\Joshua\Desktop\repos\cupojoe\jazzedonjava\jazzedonjava\bin\Debug\netcoreapp3.1\jazzedonjava.runtimeconfig.json
+C:\Users\Joshua\Desktop\repos\cupojoe\jazzedonjava\jazzedonjava\bin\Debug\netcoreapp3.1\jazzedonjava.runtimeconfig.dev.json
+C:\Users\Joshua\Desktop\repos\cupojoe\jazzedonjava\jazzedonjava\bin\Debug\netcoreapp3.1\jazzedonjava.dll
+C:\Users\Joshua\Desktop\repos\cupojoe\jazzedonjava\jazzedonjava\bin\Debug\netcoreapp3.1\jazzedonjava.pdb
+C:\Users\Joshua\Desktop\repos\cupojoe\jazzedonjava\jazzedonjava\obj\Debug\netcoreapp3.1\jazzedonjava.csprojAssemblyReference.cache
+C:\Users\Joshua\Desktop\repos\cupojoe\jazzedonjava\jazzedonjava\obj\Debug\netcoreapp3.1\jazzedonjava.AssemblyInfoInputs.cache
+C:\Users\Joshua\Desktop\repos\cupojoe\jazzedonjava\jazzedonjava\obj\Debug\netcoreapp3.1\jazzedonjava.AssemblyInfo.cs
+C:\Users\Joshua\Desktop\repos\cupojoe\jazzedonjava\jazzedonjava\obj\Debug\netcoreapp3.1\jazzedonjava.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Desktop\repos\cupojoe\jazzedonjava\jazzedonjava\obj\Debug\netcoreapp3.1\jazzedonjava.dll
+C:\Users\Joshua\Desktop\repos\cupojoe\jazzedonjava\jazzedonjava\obj\Debug\netcoreapp3.1\jazzedonjava.pdb
+C:\Users\Joshua\Desktop\repos\cupojoe\jazzedonjava\jazzedonjava\obj\Debug\netcoreapp3.1\jazzedonjava.genruntimeconfig.cache
